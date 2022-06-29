@@ -1,4 +1,5 @@
-:: snag.hoon
+::  snag.hoon
+::
 |=  [idx=@ l=(list @)]
 ?~  l  !!
 ?:  =(0 idx)  i.l

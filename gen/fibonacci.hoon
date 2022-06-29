@@ -1,3 +1,5 @@
+::  fibonacci.hoon
+::
 |=  n=@ud
 ?:  (lte n 1)
   1

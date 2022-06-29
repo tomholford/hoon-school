@@ -1,3 +1,5 @@
+::  factorial.hoon
+::
 |=  n=@ud
 ?:  =(n 1)
   1
